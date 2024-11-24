@@ -26,7 +26,7 @@ git clone https://github.com/liuke95/simple-invoice
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd SimpleInvoice
+cd simple-invoice
 ```
 
 ### 3. Install Dependencies
